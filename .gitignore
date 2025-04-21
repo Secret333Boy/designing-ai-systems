@@ -174,3 +174,5 @@ cython_debug/
 mnist.npz
 
 tmp
+dataset
+*.keras
