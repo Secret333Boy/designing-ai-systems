@@ -175,4 +175,6 @@ mnist.npz
 
 tmp
 dataset
+datasets
 *.keras
+runs
